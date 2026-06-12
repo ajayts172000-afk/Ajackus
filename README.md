@@ -96,3 +96,5 @@ curl -H "Authorization: Bearer <token>" http://localhost:3000/api/projects
 - Tailwind CSS 3
 - bcryptjs + jsonwebtoken
 - Vitest 2 (testing)
+
+Recording Link - https://drive.google.com/file/d/1YuYJ3uvZx_UWQFOFHtqzYzapB_15pa7Q/view?usp=drive_link
